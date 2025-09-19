@@ -113,3 +113,33 @@ def daily_attendance(date: str = Query(..., description="Date (YYYY-MM-DD)")):
         "absent": absent,
         "attendance_percentage": f"{(present/total*100) if total > 0 else 0:.2f}%"
     }
+# add superadmin code in backend
+
+from fastapi import FastAPI
+from pydantic import BaseModel
+from typing import List
+
+app = FastAPI()
+
+# Temporary in-memory storage (replace with DB later)
+admins = []
+
+# Request body model
+class Admin(BaseModel):
+    email: str
+    password: str
+    college: str
+
+@app.post("/api/admins")
+def create_admin(admin: Admin):
+    if not admin.email or not admin.password or not admin.college:
+        return {"success": False, "message": "All fields are required"}
+
+    # Later you’ll save this in a database
+    admins.append(admin.dict())
+
+    return {"success": True, "message": "Admin created successfully!"}
+
+@app.get("/api/admins", response_model=List[Admin])
+def get_admins():
+    return admins
