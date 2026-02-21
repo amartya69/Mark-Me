@@ -5,7 +5,17 @@ Mark-Me is a modern attendance management application built using React Native f
 
 The application helps teachers and institutions manage attendance digitally while allowing students to track their attendance records in real-time.
 
+🎯 Objective
 
+Traditional attendance systems are:
+
+Manual and time-consuming
+
+Error-prone
+
+Hard to maintain
+
+Mark-Me digitizes attendance tracking, improving efficiency, transparency, and accessibility.
 
 
 
