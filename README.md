@@ -1,24 +1,16 @@
-# Mark-Me
+🚀 Mark-Me – Smart Attendance Portal
+📌 Overview
 
-Getting Started
-Installation
-Install the dependencies:
+Mark-Me is a modern attendance management application built using React Native for cross-platform mobile experience and HTML/CSS for web interface components.
 
-npm install
-Development
-Start the development server with HMR:
-
-npm run dev
-Your application will be available at http://localhost:5173.
+The application helps teachers and institutions manage attendance digitally while allowing students to track their attendance records in real-time.
 
 
 
-npm run build
-Deployment
-Docker Deployment
-To build and run using Docker:
 
-docker build -t my-app .
+
+
+
 
 # Run the container
 docker run -p 3000:3000 my-app
