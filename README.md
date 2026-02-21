@@ -18,7 +18,19 @@ Hard to maintain
 Mark-Me digitizes attendance tracking, improving efficiency, transparency, and accessibility.
 
 
+🛠️ Tech Stack
 
+⚛️ React Native
+
+🌐 HTML5
+
+🎨 CSS3
+
+JavaScript
+
+Node.js (if backend exists)
+
+Firebase / API (if used)
 
 
 
