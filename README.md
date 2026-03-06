@@ -54,3 +54,6 @@ Mark-Me
 🛠 Installation
 1️⃣ Clone the Repository
 git clone https://github.com/amartya69/Mark-Me.git
+
+2️⃣ Navigate to the Project Folder
+cd Mark-Me
