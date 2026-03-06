@@ -41,3 +41,11 @@ Mark-Me
 ├── .env                   # Environment variables
 ├── README.md              # Project documentation
 └── web uvicorn mainapp --host 0.0.0.0.txt
+
+🚀 Features
+
+✅ Digital attendance tracking
+✅ Fast API backend
+✅ Easy setup and deployment
+✅ Lightweight and scalable
+✅ Environment variable support
