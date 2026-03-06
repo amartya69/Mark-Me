@@ -13,3 +13,9 @@ This system can be useful for:
 🏢 Small organizations
 
 It helps automate attendance and reduces manual record keeping.
+
+🎥 Project Preview
+
+<p align="center">
+<img src="assets/demo.gif" width="800">
+</p>
