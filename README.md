@@ -19,3 +19,16 @@ It helps automate attendance and reduces manual record keeping.
 <p align="center">
 <img src="assets/demo.gif" width="800">
 </p>
+
+
+⚙️ Tech Stack
+
+Backend: Python
+
+Framework: FastAPI
+
+Server: Uvicorn
+
+Environment: Python Virtual Environment
+
+Version Control: Git & GitHub
