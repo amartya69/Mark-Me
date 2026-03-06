@@ -32,3 +32,12 @@ Server: Uvicorn
 Environment: Python Virtual Environment
 
 Version Control: Git & GitHub
+
+
+Mark-Me
+│
+├── main.py                # Main application file
+├── requirements.txt       # Python dependencies
+├── .env                   # Environment variables
+├── README.md              # Project documentation
+└── web uvicorn mainapp --host 0.0.0.0.txt
