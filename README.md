@@ -57,3 +57,6 @@ git clone https://github.com/amartya69/Mark-Me.git
 
 2️⃣ Navigate to the Project Folder
 cd Mark-Me
+
+3️⃣ Create Virtual Environment
+python -m venv venv
