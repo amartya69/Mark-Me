@@ -49,3 +49,8 @@ Mark-Me
 ✅ Easy setup and deployment
 ✅ Lightweight and scalable
 ✅ Environment variable support
+
+
+🛠 Installation
+1️⃣ Clone the Repository
+git clone https://github.com/amartya69/Mark-Me.git
