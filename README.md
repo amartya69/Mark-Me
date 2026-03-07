@@ -79,3 +79,7 @@ pip install -r requirements.txt
 Start the FastAPI server:
 
 uvicorn main:app --host 0.0.0.0 --reload
+
+Now open your browser:
+
+http://127.0.0.1:8000
