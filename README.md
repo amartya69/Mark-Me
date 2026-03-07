@@ -83,3 +83,7 @@ uvicorn main:app --host 0.0.0.0 --reload
 Now open your browser:
 
 http://127.0.0.1:8000
+
+API documentation available at:
+
+http://127.0.0.1:8000/docs
