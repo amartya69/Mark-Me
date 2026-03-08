@@ -119,3 +119,7 @@ Add this in the About section:
 Description
 
 Smart attendance management system built using Python and FastAPI.
+
+Topics
+
+python fastapi attendance-system student-management backend-project
