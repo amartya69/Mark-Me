@@ -109,3 +109,13 @@ Professional
 Organized
 
 Hackathon / portfolio ready
+
+💡 One more small improvement for your repo (important):
+
+Right now your repo has no description on the right side.
+
+Add this in the About section:
+
+Description
+
+Smart attendance management system built using Python and FastAPI.
