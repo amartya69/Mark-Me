@@ -100,3 +100,12 @@ http://127.0.0.1:8000/docs
 🔐 Authentication system
 
 📱 Mobile responsive interface
+
+
+✅ This README will make your project look:
+
+Professional
+
+Organized
+
+Hackathon / portfolio ready
