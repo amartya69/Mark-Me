@@ -67,7 +67,7 @@ Windows
 
 venv\Scripts\activate
 
-Mac / Linux
+Mac 
 
 source venv/bin/activate
 
